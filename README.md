@@ -34,3 +34,5 @@ Let’s see where this coding journey goes. Step by step. Bug by bug. Victory by
 ---
 
 _Thanks for dropping by!_
+
+![snake gif](https://github.com/seth-aung/seth-aung/blob/output/github-contribution-grid-snake.svg)
