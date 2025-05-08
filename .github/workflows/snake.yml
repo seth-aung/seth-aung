@@ -18,7 +18,7 @@ jobs:
       - name: Push snake
         run: |
           git config --global user.name "seth-aung"
-          git config --global user.email "youremail@example.com"
+          git config --global user.email "sattaung18101988@gmail.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/seth-aung/seth-aung.git
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generate snake"
