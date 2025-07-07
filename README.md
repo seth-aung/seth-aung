@@ -2,7 +2,7 @@
 
 **"Learning to code so my computer fears me too."**
 
-I run **Alinntann Printing & ID Photo** — a small but mighty print shop in Myanmar. I do a bit of everything: photo editing, printing, and now… **diving into development**. I'm learning how to build apps and tools that can help with my work, and maybe even create something cool for others too.
+I run **Alinntann Printing** — a small but mighty print shop in Myanmar. I do a bit of everything: photo editing, printing, and now… **diving into development**. I'm learning how to build apps and tools that can help with my work, and maybe even create something cool for others too.
 
 ---
 
